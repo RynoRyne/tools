@@ -1,0 +1,9 @@
+public static Double (double unrounded)
+    {
+        unrounded *= 100;
+        unrounded += 0.5;
+        unrounded = (int)unrounded;
+        unrounded /= 100;
+        unrounded = rounded
+        return rounded;
+    }
